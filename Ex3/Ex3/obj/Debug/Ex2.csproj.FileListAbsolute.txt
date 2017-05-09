@@ -1,0 +1,6 @@
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.exe
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\bin\Debug\Ex2.pdb
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.exe
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex2\obj\Debug\Ex2.pdb
