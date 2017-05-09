@@ -1,0 +1,5 @@
+C:\Users\bozhi\Documents\GitHub\BookExercisesConsole\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\bozhi\Documents\GitHub\BookExercisesConsole\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\bozhi\Documents\GitHub\BookExercisesConsole\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\bozhi\Documents\GitHub\BookExercisesConsole\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\bozhi\Documents\GitHub\BookExercisesConsole\Ex1\Ex1\obj\Debug\Ex1.pdb
