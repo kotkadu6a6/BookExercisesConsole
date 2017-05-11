@@ -1,0 +1,6 @@
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\bin\Debug\Ex8.exe
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\bin\Debug\Ex8.pdb
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\obj\Debug\Ex9.csprojResolveAssemblyReference.cache
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\obj\Debug\Ex8.exe
+C:\Users\bozhi\AppData\Local\Temporary Projects\Ex8\obj\Debug\Ex8.pdb
