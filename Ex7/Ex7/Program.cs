@@ -10,51 +10,37 @@ namespace Ex7
     {
         static void Main(string[] args)
         {
-            bool aTry=false;
-            bool bTry=false;
-            bool cTry=false;
-            bool dTry=false;
-            bool eTry=false;
-            int sum = 0;
-            while (aTry==false)
-            {
-                Console.WriteLine("Enter the first number");
-                bool check = int.TryParse(Console.ReadLine(), out int a);
-                aTry = check;
-                sum += a;
+            {               
+                int [] number = new int[5];
+                for (int a = 0; a < 5; a++)
+                {
+                    Console.WriteLine("Enter a number:");
+                    number[a] = int.Parse(Console.ReadLine());
+                }
+                if (number[0]>number[1]&&number[0]>number[2]&&
+                    number[0]>number[3]&&number[0]>number[4])
+                {
+                    Console.WriteLine("The bigest number is: "+number[0]);
+                }
+                else if (number[1] > number[2] && number[1] > number[3] &&
+                    number[1] > number[4])
+                {
+                    Console.WriteLine("The biggest number is: ",number[1]);
+                }
+                else if (number[2] > number[3] && number[2] > number[4])
+                {
+                    Console.WriteLine("The biggest number is: ",number[2]);
+                }
+                else if (number[3] > number[4])
+                {
+                    Console.WriteLine("The biggest is: ",number[3]);
+                }
+                else
+                {
+                    Console.WriteLine("The bigest number is ",number[4]);
+                }
+                Console.ReadLine();
             }
-            while (bTry == false)
-            {
-                Console.WriteLine("Enter the second number");
-                bool check = int.TryParse(Console.ReadLine(), out int b);
-                bTry = check;
-                sum += b;
-            }
-            while (cTry == false)
-            {
-                Console.WriteLine("Enter the third number");
-                bool check = int.TryParse(Console.ReadLine(), out int c);
-                cTry = check;
-                sum += c;
-            }
-            while (dTry == false)
-            {
-                Console.WriteLine("Enter the forth number");
-                bool check = int.TryParse(Console.ReadLine(), out int d);
-                dTry = check;
-                sum += d;
-            }
-            while (eTry == false)
-            {
-                Console.WriteLine("Enter the fifth number");
-                bool check = int.TryParse(Console.ReadLine(), out int e);
-                eTry = check;
-                sum += e;
-            }
-            Console.WriteLine("The sum of the numbers is {0}",sum );
-            Console.ReadLine();
-
-
         }
     }
 }
